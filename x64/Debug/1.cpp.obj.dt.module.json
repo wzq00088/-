@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "五子棋1\\x64\\Debug\\1.obj",
+            "outputs": [
+                "五子棋1\\x64\\Debug\\1.cpp.obj.dt.module.json",
+                "五子棋1\\x64\\Debug\\1.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
