@@ -1,0 +1,8 @@
+.vscode/
+x64/
+Debug/
+*.obj
+*.pdb
+*.ilk
+*.log
+*.recipe
